@@ -5,6 +5,9 @@
 GET {{baseUrl}}/products
 
 ###
+# @name FilterProducts
+GET {{baseUrl}}/products?name_like=lo
+###
 
 # @name getProduct
 GET {{baseUrl}}/products/54
