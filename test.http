@@ -1,0 +1,34 @@
+@baseUrl = http://localhost:3000/api
+# products
+
+# @name getAllProducts
+GET {{baseUrl}}/products
+
+###
+
+# @name getProduct
+GET {{baseUrl}}/products/54
+
+###
+# @name addProduct
+POST {{baseUrl}}/products
+Content-Type: application/json
+
+{
+    "name": "test add",
+    "groupId": 1,
+    "imgage": "Image/100.png"
+}
+###
+# @name updateProduct
+PUT  {{baseUrl}}/products/54
+Content-Type: application/json
+
+{
+    "name": "test add ----",
+    "groupId": 1,
+    "imgage": "Image/100.png"
+}
+###
+# @name removeProduct
+DELETE   {{baseUrl}}/products/54
