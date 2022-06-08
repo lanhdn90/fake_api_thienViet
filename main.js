@@ -29,13 +29,11 @@ router.render = (rep, res) => {
     const queryParams = queryString.parse(rep._parsedUrl.query);
     const result = {
       data: res.locals.data,
-      _page: Number.parseInt(queryParams._page),
-      _limit: Number.parseInt(queryParams._limit),
-      totalElement: Number.parseInt(totalCountHeader),
-      hasNext:
-        Number.parseInt(totalCountHeader) > Number.parseInt(queryParams._limit)
-          ? true
-          : false,
+      pagination: {
+        _page: Number.parseInt(queryParams._page),
+        _limit: Number.parseInt(queryParams._limit),
+        totalElement: Number.parseInt(totalCountHeader),
+      },
     };
     return res.jsonp(result);
   }
@@ -44,7 +42,7 @@ router.render = (rep, res) => {
 
 // Use default router
 server.use("/api", router);
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 3000;
 server.listen(PORT, () => {
   console.log("JSON Server is running");
 });
