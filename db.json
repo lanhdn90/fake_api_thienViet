@@ -6,7 +6,111 @@
   "programs": [
     {
       "id": 1,
-      "label": "Trương Trình 1/6",
+      "label": "Chương Trình 1/6",
+      "startDate": 0,
+      "endDate": 0,
+      "status": true,
+      "content": {
+        "Diamond": [
+          {
+            "groupId": [1],
+            "amount": [
+              6
+            ]
+          },
+          {
+            "groupId": [2],
+            "amount": [
+              2
+            ]
+          },
+          {
+            "groupId": [3],
+            "amount": [
+              2
+            ]
+          },
+          {
+            "groupId": [4,5],
+            "amount": [
+              6,
+              36
+            ]
+          },
+          {
+            "groupId": [6,7],
+            "amount": [
+              5,
+              30
+            ]
+          },
+          {
+            "groupId": [8,9],
+            "amount": [
+              4,
+              24
+            ]
+          }
+        ],
+        "Gold": [
+          {
+            "groupId": 1,
+            "amount": [
+              4
+            ]
+          },
+          {
+            "groupId": 2,
+            "amount": [
+              4
+            ]
+          },
+          {
+            "groupId": 3,
+            "amount": [
+              1
+            ]
+          },
+          {
+            "groupId": 4,
+            "amount": [
+              4
+            ]
+          }
+        ],
+        "Silver": [
+          {
+            "groupId": 1,
+            "amount": [
+              4
+            ]
+          },
+          {
+            "groupId": 2,
+            "amount": [
+              2
+            ]
+          }
+        ],
+        "Bronze": [
+          {
+            "groupId": 1,
+            "amount": [
+              3
+            ]
+          },
+          {
+            "groupId": 2,
+            "amount": [
+              1
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "label": "Chương Trình Tet Tay",
       "startDate": 0,
       "endDate": 0,
       "status": true,
@@ -575,11 +679,11 @@
       "name": "Yến Thiên việt 5",
       "address": "375 Nguyễn Văn Linh",
       "phone": "0905.xxx.xxx",
-      "typeOfDisplay": "Diamond",
+      "typeOfDisplay": "Gold",
       "employee": "Nguyễn Thị Hằng",
       "result": false,
       "registrationDate": 0,
-      "programsId": 1,
+      "programsId": 2,
       "images": ["204.jpg"]
     }
   ]
