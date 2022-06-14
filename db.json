@@ -634,7 +634,7 @@
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
       "result": false,
-      "registrationDate": 0,
+      "registrationDate": 1654653479581,
       "programsId": 1,
       "images": ["Images/200.jpg"]
     },
@@ -645,8 +645,8 @@
       "phone": "0905.xxx.xxx",
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
-      "result": false,
-      "registrationDate": 0,
+      "result": true,
+      "registrationDate": 1654653479581,
       "programsId": 1,
       "images": ["Images/201.jpg"]
     },
@@ -658,7 +658,7 @@
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
       "result": false,
-      "registrationDate": 0,
+      "registrationDate": 1654653479581,
       "programsId": 1,
       "images": ["Images/202.jpg"]
     },
@@ -669,8 +669,8 @@
       "phone": "0905.xxx.xxx",
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
-      "result": false,
-      "registrationDate": 0,
+      "result": true,
+      "registrationDate": 1654653479581,
       "programsId": 1,
       "images": ["Images/203.jpg"]
     },
@@ -682,7 +682,7 @@
       "typeOfDisplay": "Gold",
       "employee": "Nguyễn Thị Hằng",
       "result": false,
-      "registrationDate": 0,
+      "registrationDate": 1654653479581,
       "programsId": 2,
       "images": ["Images/204.jpg"]
     }
