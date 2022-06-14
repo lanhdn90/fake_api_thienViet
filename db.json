@@ -633,7 +633,7 @@
       "phone": "0905.xxx.xxx",
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
-      "result": false,
+      "result": null,
       "registrationDate": 1654653479581,
       "programsId": 1,
       "images": ["Images/200.jpg"]
@@ -643,7 +643,7 @@
       "name": "Yến Thiên việt 2",
       "address": "14 Tran Tu Binh",
       "phone": "0905.xxx.xxx",
-      "typeOfDisplay": "Diamond",
+      "typeOfDisplay": "Bronze",
       "employee": "Nguyễn Thị Hằng",
       "result": true,
       "registrationDate": 1654653479581,
