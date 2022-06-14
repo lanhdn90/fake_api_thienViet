@@ -1,8 +1,16 @@
 {
-  "user": {
-    "username": "demo_app@example.com",
-    "password": "123456"
-  },
+  "user": [
+    {
+      "username": "admin_app@example.com",
+      "password": "123456",
+      "role": "Admin"
+    },
+    {
+      "username": "viewer_app@example.com",
+      "password": "123456",
+      "role": "viewer"
+    }
+  ],
   "programs": [
     {
       "id": 1,
@@ -13,39 +21,54 @@
       "content": {
         "Diamond": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               6
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               2
             ]
           },
           {
-            "groupId": [3],
+            "groupId": [
+              3
+            ],
             "amount": [
               2
             ]
           },
           {
-            "groupId": [4,5],
+            "groupId": [
+              4,
+              5
+            ],
             "amount": [
               6,
               36
             ]
           },
           {
-            "groupId": [6,7],
+            "groupId": [
+              6,
+              7
+            ],
             "amount": [
               5,
               30
             ]
           },
           {
-            "groupId": [8,9],
+            "groupId": [
+              8,
+              9
+            ],
             "amount": [
               4,
               24
@@ -54,25 +77,33 @@
         ],
         "Gold": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               4
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               4
             ]
           },
           {
-            "groupId":[ 3],
+            "groupId": [
+              3
+            ],
             "amount": [
               1
             ]
           },
           {
-            "groupId": [4],
+            "groupId": [
+              4
+            ],
             "amount": [
               4
             ]
@@ -80,13 +111,17 @@
         ],
         "Silver": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               4
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               2
             ]
@@ -94,13 +129,17 @@
         ],
         "Bronze": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               3
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               1
             ]
@@ -117,39 +156,54 @@
       "content": {
         "Diamond": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               6
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               2
             ]
           },
           {
-            "groupId": [3],
+            "groupId": [
+              3
+            ],
             "amount": [
               2
             ]
           },
           {
-            "groupId": [4,5],
+            "groupId": [
+              4,
+              5
+            ],
             "amount": [
               6,
               36
             ]
           },
           {
-            "groupId": [6,7],
+            "groupId": [
+              6,
+              7
+            ],
             "amount": [
               5,
               30
             ]
           },
           {
-            "groupId": [8,9],
+            "groupId": [
+              8,
+              9
+            ],
             "amount": [
               4,
               24
@@ -158,25 +212,33 @@
         ],
         "Gold": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               4
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               4
             ]
           },
           {
-            "groupId": [3],
+            "groupId": [
+              3
+            ],
             "amount": [
               1
             ]
           },
           {
-            "groupId": [4],
+            "groupId": [
+              4
+            ],
             "amount": [
               4
             ]
@@ -184,13 +246,17 @@
         ],
         "Silver": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               4
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               2
             ]
@@ -198,13 +264,17 @@
         ],
         "Bronze": [
           {
-            "groupId": [1],
+            "groupId": [
+              1
+            ],
             "amount": [
               3
             ]
           },
           {
-            "groupId": [2],
+            "groupId": [
+              2
+            ],
             "amount": [
               1
             ]
@@ -273,7 +343,6 @@
       "image": "Images/3.png",
       "createdAt": 1654653479581
     },
-    
     {
       "id": 4,
       "name": "HỘP NUOC YEN THIEN VIET 70ML 6X6 Y15% Sâm Có Đường",
@@ -557,7 +626,7 @@
     {
       "id": 44,
       "name": "LỐC NUOC YEN JUST NEST 160ML 6X8 Y5% Hương cam ",
-      "groupId":8,
+      "groupId": 8,
       "image": "Images/44.png",
       "createdAt": 1654653479581
     },
@@ -636,7 +705,9 @@
       "result": 0,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": ["Images/200.jpg"]
+      "images": [
+        "Images/200.jpg"
+      ]
     },
     {
       "id": 2,
@@ -648,7 +719,9 @@
       "result": 1,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": ["Images/201.jpg"]
+      "images": [
+        "Images/201.jpg"
+      ]
     },
     {
       "id": 3,
@@ -660,7 +733,9 @@
       "result": 0,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": ["Images/202.jpg"]
+      "images": [
+        "Images/202.jpg"
+      ]
     },
     {
       "id": 4,
@@ -672,7 +747,9 @@
       "result": 1,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": ["Images/203.jpg"]
+      "images": [
+        "Images/203.jpg"
+      ]
     },
     {
       "id": 5,
@@ -684,7 +761,9 @@
       "result": 99,
       "registrationDate": 1654653479581,
       "programsId": 2,
-      "images": ["Images/204.jpg"]
+      "images": [
+        "Images/204.jpg"
+      ]
     }
   ]
 }
