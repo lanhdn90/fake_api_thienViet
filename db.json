@@ -703,6 +703,7 @@
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
       "result": 0,
+      "review": true,
       "registrationDate": 1654653479581,
       "programsId": 1,
       "images": [
@@ -717,6 +718,7 @@
       "typeOfDisplay": "Bronze",
       "employee": "Nguyễn Thị Hằng",
       "result": 1,
+      "review": false,
       "registrationDate": 1654653479581,
       "programsId": 1,
       "images": [
@@ -731,6 +733,7 @@
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
       "result": 0,
+      "review": true,
       "registrationDate": 1654653479581,
       "programsId": 1,
       "images": [
@@ -745,6 +748,7 @@
       "typeOfDisplay": "Diamond",
       "employee": "Nguyễn Thị Hằng",
       "result": 1,
+      "review": false,
       "registrationDate": 1654653479581,
       "programsId": 1,
       "images": [
@@ -760,6 +764,7 @@
       "typeOfDisplay": "Gold",
       "employee": "Nguyễn Thị Hằng",
       "result": 99,
+      "review": true,
       "registrationDate": 1654653479581,
       "programsId": 2,
       "images": [
