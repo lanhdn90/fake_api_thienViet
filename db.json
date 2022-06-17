@@ -243,42 +243,6 @@
               4
             ]
           }
-        ],
-        "Silver": [
-          {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              4
-            ]
-          },
-          {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              2
-            ]
-          }
-        ],
-        "Bronze": [
-          {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              3
-            ]
-          },
-          {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              1
-            ]
-          }
         ]
       }
     }
