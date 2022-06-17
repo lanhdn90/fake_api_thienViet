@@ -312,51 +312,63 @@
   "groups": [
     {
       "id": 1,
-      "label": "Hộp YTV"
+      "label": "Hộp YTV",
+      "labelId": 1
     },
     {
       "id": 2,
-      "label": "Hộp Daily Nest"
+      "label": "Hộp Daily Nest",
+      "labelId": 2
     },
     {
       "id": 10,
-      "label": "Hộp Just Nest"
+      "label": "Hộp Just Nest",
+      "labelId": 2
     },
     {
       "id": 3,
-      "label": "Hộp sâm VTG"
+      "label": "Hộp sâm VTG",
+      "labelId": 3
     },
     {
       "id": 4,
-      "label": "Lốc Kids nest"
+      "label": "Lốc Kids nest",
+      "labelId": 4
     },
     {
       "id": 5,
-      "label": "Lọ Kids nest"
+      "label": "Lọ Kids nest",
+      "labelId": 4
     },
     {
       "id": 6,
-      "label": "Lốc YTV"
+      "label": "Lốc YTV",
+      "labelId": 5
     },
     {
       "id": 7,
-      "label": "Lọ YTV"
+      "label": "Lọ YTV",
+      "labelId": 5
     },
     {
       "id": 8,
-      "label": "Lốc Daily nest"
+      "label": "Lốc Daily nest",
+      "labelId": 6
     },
     {
       "id": 11,
-      "label": "Lốc Just nest"
+      "label": "Lốc Just nest",
+      "labelId": 6
     },
     {
       "id": 12,
-      "label": "Lọ Daily nest"
+      "label": "Lọ Daily nest",
+      "labelId": 6
     },
     {
       "id": 9,
-      "label": "Lọ Just nest"
+      "label": "Lọ Just nest",
+      "labelId": 6
     }
   ],
   "products": [
