@@ -290,7 +290,11 @@
     },
     {
       "id": 2,
-      "label": "Hộp Daily Nest / Just Nest"
+      "label": "Hộp Daily Nest"
+    },
+    {
+      "id": 10,
+      "label": "Hộp Just Nest"
     },
     {
       "id": 3,
@@ -314,11 +318,19 @@
     },
     {
       "id": 8,
-      "label": "Lốc Daily / Just nest"
+      "label": "Lốc Daily nest"
+    },
+    {
+      "id": 11,
+      "label": "Lốc Just nest"
+    },
+    {
+      "id": 12,
+      "label": "Lọ Daily nest"
     },
     {
       "id": 9,
-      "label": "Lọ Daily Just nest"
+      "label": "Lọ Just nest"
     }
   ],
   "products": [
@@ -388,7 +400,7 @@
     },
     {
       "id": 9,
-      "name": "HỘP YEN SUA DAILYNEST 120ML 6X8 Y6% Đậu đỏ hạnh nhân",
+      "name": "HỘP YEN SUA DAILY NEST 120ML 6X8 Y6% Đậu đỏ hạnh nhân",
       "groupId": 2,
       "image": "Images/9.png",
       "createdAt": 1654653479581,
@@ -397,7 +409,7 @@
     {
       "id": 10,
       "name": "HỘP NƯỚC YẾN JUST NEST 120ML 6X8 Y8%",
-      "groupId": 2,
+      "groupId": 10,
       "image": "Images/10.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -405,7 +417,7 @@
     {
       "id": 11,
       "name": "HỘP NƯỚC YẾN JUST NEST 120ML 6X8 Y8% Hạt Chia",
-      "groupId": 2,
+      "groupId": 10,
       "image": "Images/11.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -413,7 +425,7 @@
     {
       "id": 12,
       "name": "HỘP NƯỚC YẾN JUST NEST 120ML 6X8 Y8% Collagen",
-      "groupId": 2,
+      "groupId": 10,
       "image": "Images/12.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -421,7 +433,7 @@
     {
       "id": 13,
       "name": "HỘP NƯỚC YẾN JUST NEST 160ML 6X8 Y5% Hương Kiwi",
-      "groupId": 2,
+      "groupId": 10,
       "image": "Images/13.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -429,7 +441,7 @@
     {
       "id": 14,
       "name": "HỘP NƯỚC YẾN JUST NEST 160ML 6X8 Y5% Hương dưa lưới",
-      "groupId": 2,
+      "groupId": 10,
       "image": "Images/14.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -437,7 +449,7 @@
     {
       "id": 15,
       "name": "HỘP NƯỚC YẾN JUST NEST 160ML 6X8 Y5% Hương cam",
-      "groupId": 2,
+      "groupId": 10,
       "image": "Images/15.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -629,7 +641,7 @@
     {
       "id": 39,
       "name": "LỐC NUOC YEN JUST NEST 120ML 6X8 Y8%",
-      "groupId": 8,
+      "groupId": 11,
       "image": "Images/39.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -637,7 +649,7 @@
     {
       "id": 40,
       "name": "LỐC NUOC YEN JUST NEST 120ML 6X8 Y8% Hạt Chia",
-      "groupId": 8,
+      "groupId": 11,
       "image": "Images/40.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -645,7 +657,7 @@
     {
       "id": 41,
       "name": "LỐC NUOC YEN JUST NEST 120ML 6X8 Y8% Collagen",
-      "groupId": 8,
+      "groupId": 11,
       "image": "Images/41.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -653,7 +665,7 @@
     {
       "id": 42,
       "name": "LỐC NUOC YEN JUST NEST 160ML 6X8 Y5% Hương kiwi ",
-      "groupId": 8,
+      "groupId": 11,
       "image": "Images/42.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -661,7 +673,7 @@
     {
       "id": 43,
       "name": "LỐC NUOC YEN JUST NEST 160ML 6X8 Y5% Hương dưa lưới ",
-      "groupId": 8,
+      "groupId": 11,
       "image": "Images/43.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -669,7 +681,7 @@
     {
       "id": 44,
       "name": "LỐC NUOC YEN JUST NEST 160ML 6X8 Y5% Hương cam ",
-      "groupId": 8,
+      "groupId": 11,
       "image": "Images/44.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -677,7 +689,7 @@
     {
       "id": 45,
       "name": "LO YEN SUA DAILY NEST 120ML 1X48 Y6% Sữa gạo ",
-      "groupId": 9,
+      "groupId": 12,
       "image": "Images/45.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -685,7 +697,7 @@
     {
       "id": 46,
       "name": "LO YEN SUA DAILY NEST 120ML 1X48 Y6% Đậu đỏ hạnh nhân ",
-      "groupId": 9,
+      "groupId": 12,
       "image": "Images/46.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
@@ -693,7 +705,7 @@
     {
       "id": 47,
       "name": "LO YEN SUA DAILY NEST 120ML 1X48 Y6% Sữa bắp bí đỏ",
-      "groupId": 9,
+      "groupId": 12,
       "image": "Images/47.png",
       "createdAt": 1654653479581,
       "imagesTraining": ["Images/1.png","Images/2.png","Images/3.png","Images/4.png","Images/5.png"]
