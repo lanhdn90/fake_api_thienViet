@@ -1156,5 +1156,35 @@
         "Images/204.jpg"
       ]
     }
-  ]
+  ],
+  "imageInfo": {
+    "input": [
+      {
+        "label": "Camera 1",
+        "image": "b4650a390145c21b9b54.jpg"
+      },
+      {
+        "label": "Camera 2",
+        "image": "594d9242933e5060092f.jpg"
+      },
+      {
+        "label": "Camera 3",
+        "image": "b4650a390145c21b9b54.jpg"
+      }
+    ],
+    "output": [
+      {
+        "label": "Camera 1",
+        "image": "6a7b0fc33dbffee1a7ae.jpg"
+      },
+      {
+        "label": "Camera 2",
+        "image": "08af780c7470b72eee61.jpg"
+      },
+      {
+        "label": "Camera 3",
+        "image": "6a7b0fc33dbffee1a7ae.jpg"
+      }
+    ]
+  }
 }
