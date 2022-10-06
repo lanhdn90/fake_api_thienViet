@@ -1157,42 +1157,23 @@
       ]
     }
   ],
-  "imageInfo": {
-    "input": [
-      {
-        "label": "Camera 1",
-        "createdAt": 1654653479581,
-        "image": "b4650a390145c21b9b54.jpg"
-      },
-      {
-        "label": "Camera 2",
-        "createdAt": 1654653479581,
-        "image": "594d9242933e5060092f.jpg"
-      },
-      {
-        "label": "Camera 3",
-        "createdAt": 1654653479581,
-        "image": "b4650a390145c21b9b54.jpg"
-      }
-    ],
-    "output": [
-      {
-        "label": "Camera 1",
-        "createdAt": 1654653479581,
-        "image": "6a7b0fc33dbffee1a7ae.jpg"
-      },
-      {
-        "label": "Camera 2",
-        "createdAt": 1654653479581,
-        "image": "08af780c7470b72eee61.jpg"
-      },
-      {
-        "label": "Camera 3",
-        "createdAt": 1654653479581,
-        "image": "6a7b0fc33dbffee1a7ae.jpg"
-      }
-    ]
-  },
+  "imageInfo": [
+    {
+      "camID": "Camera 1",
+      "error": "ban",
+      "image": "b4650a390145c21b9b54.jpg"
+    },
+    {
+      "camID": "Camera 2",
+      "error": null,
+      "image": "594d9242933e5060092f.jpg"
+    },
+    {
+      "camID": "Camera 3",
+      "error": "ban",
+      "image": "b4650a390145c21b9b54.jpg"
+    }
+  ],
   "imageInput": [
     {
       "label": "Camera 1",
