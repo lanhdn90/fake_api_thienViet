@@ -1255,5 +1255,19 @@
       "createdAt": 1654653479581,
       "image": "b4650a390145c21b9b54.jpg"
     }
+  ],
+  "dataReport": [
+    {
+      "time": 1654653479581,
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    }
   ]
 }
