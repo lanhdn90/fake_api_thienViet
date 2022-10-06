@@ -21,128 +21,66 @@
       "content": {
         "Diamond": [
           {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              6
-            ]
+            "groupId": [1],
+            "amount": [6]
           },
           {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              2
-            ]
+            "groupId": [2],
+            "amount": [2]
           },
           {
-            "groupId": [
-              3
-            ],
-            "amount": [
-              2
-            ]
+            "groupId": [3],
+            "amount": [2]
           },
           {
-            "groupId": [
-              4,
-              5
-            ],
-            "amount": [
-              6,
-              36
-            ]
+            "groupId": [4, 5],
+            "amount": [6, 36]
           },
           {
-            "groupId": [
-              6,
-              7
-            ],
-            "amount": [
-              5,
-              30
-            ]
+            "groupId": [6, 7],
+            "amount": [5, 30]
           },
           {
-            "groupId": [
-              8,
-              9
-            ],
-            "amount": [
-              4,
-              24
-            ]
+            "groupId": [8, 9],
+            "amount": [4, 24]
           }
         ],
         "Gold": [
           {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              4
-            ]
+            "groupId": [1],
+            "amount": [4]
           },
           {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              4
-            ]
+            "groupId": [2],
+            "amount": [4]
           },
           {
-            "groupId": [
-              3
-            ],
-            "amount": [
-              1
-            ]
+            "groupId": [3],
+            "amount": [1]
           },
           {
-            "groupId": [
-              4
-            ],
-            "amount": [
-              4
-            ]
+            "groupId": [4],
+            "amount": [4]
           }
         ],
         "Silver": [
           {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              4
-            ]
+            "groupId": [1],
+            "amount": [4]
           },
           {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              2
-            ]
+            "groupId": [2],
+            "amount": [2]
           }
         ],
         "Bronze": [
           {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              3
-            ]
+            "groupId": [1],
+            "amount": [3]
           },
           {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              1
-            ]
+            "groupId": [2],
+            "amount": [1]
           }
         ]
       }
@@ -156,92 +94,46 @@
       "content": {
         "Diamond": [
           {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              6
-            ]
+            "groupId": [1],
+            "amount": [6]
           },
           {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              2
-            ]
+            "groupId": [2],
+            "amount": [2]
           },
           {
-            "groupId": [
-              3
-            ],
-            "amount": [
-              2
-            ]
+            "groupId": [3],
+            "amount": [2]
           },
           {
-            "groupId": [
-              4,
-              5
-            ],
-            "amount": [
-              6,
-              36
-            ]
+            "groupId": [4, 5],
+            "amount": [6, 36]
           },
           {
-            "groupId": [
-              6,
-              7
-            ],
-            "amount": [
-              5,
-              30
-            ]
+            "groupId": [6, 7],
+            "amount": [5, 30]
           },
           {
-            "groupId": [
-              8,
-              9
-            ],
-            "amount": [
-              4,
-              24
-            ]
+            "groupId": [8, 9],
+            "amount": [4, 24]
           }
         ],
         "Gold": [
           {
-            "groupId": [
-              1
-            ],
-            "amount": [
-              4
-            ]
+            "groupId": [1],
+            "amount": [4]
           },
           {
-            "groupId": [
-              2
-            ],
-            "amount": [
-              4
-            ]
+            "groupId": [2],
+            "amount": [4]
           },
           {
-            "groupId": [
-              3
-            ],
-            "amount": [
-              1
-            ]
+            "groupId": [3],
+            "amount": [1]
           },
           {
-            "groupId": [
-              4
-            ],
-            "amount": [
-              4
-            ]
+            "groupId": [4],
+            "amount": [4]
           }
         ]
       }
@@ -1091,10 +983,7 @@
       "review": true,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": [
-        "Images/200.jpg",
-        "Images/202.jpg"
-      ]
+      "images": ["Images/200.jpg", "Images/202.jpg"]
     },
     {
       "id": 2,
@@ -1107,9 +996,7 @@
       "review": false,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": [
-        "Images/201.jpg"
-      ]
+      "images": ["Images/201.jpg"]
     },
     {
       "id": 3,
@@ -1122,9 +1009,7 @@
       "review": true,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": [
-        "Images/202.jpg"
-      ]
+      "images": ["Images/202.jpg"]
     },
     {
       "id": 4,
@@ -1137,9 +1022,7 @@
       "review": false,
       "registrationDate": 1654653479581,
       "programsId": 1,
-      "images": [
-        "Images/203.jpg"
-      ]
+      "images": ["Images/203.jpg"]
     },
     {
       "id": 5,
@@ -1152,18 +1035,13 @@
       "review": true,
       "registrationDate": 1654653479581,
       "programsId": 2,
-      "images": [
-        "Images/204.jpg"
-      ]
+      "images": ["Images/204.jpg"]
     }
   ],
   "imageInfo": [
     {
       "camID": "Camera 1",
-      "error": [
-        "ban",
-        "kim loai"
-      ],
+      "error": ["ban", "kim loai"],
       "image": "b4650a390145c21b9b54.jpg"
     },
     {
@@ -1173,9 +1051,7 @@
     },
     {
       "camID": "Camera 3",
-      "error": [
-        "ban"
-      ],
+      "error": ["ban"],
       "image": "b4650a390145c21b9b54.jpg"
     }
   ],
@@ -1257,6 +1133,136 @@
     }
   ],
   "dataReport": [
+    {
+      "time": 1654653479581,
+      "type": "Lọ cao",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ cao",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ cao",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ thấp",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ cao",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ thấp",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ thấp",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ cao",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ thấp",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
+    {
+      "time": 1654653479581,
+      "type": "Lọ cao",
+      "products_reach": 100,
+      "error_1": 5,
+      "error_2": 5,
+      "error_3": 5,
+      "error_4": 5,
+      "error_5": 5,
+      "error_6": 5,
+      "error_7": 5,
+      "total": 135
+    },
     {
       "time": 1654653479581,
       "type": "Lọ cao",
