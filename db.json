@@ -1393,5 +1393,42 @@
       "error_7": 5,
       "total": 135
     }
+  ],
+  "statistic": [
+    {
+      "label": "Số sản phẩm",
+      "amount": 100,
+      "unit": "Lọ"
+    },
+    {
+      "label": "Số sản phẩm đạt",
+      "amount": 90,
+      "unit": "Lọ"
+    },
+    {
+      "label": "Xi lanh 1",
+      "amount": 2,
+      "unit": "Lần"
+    },
+    {
+      "label": "Xi lanh 2",
+      "amount": 2,
+      "unit": "Lần"
+    },
+    {
+      "label": "Xi lanh 3",
+      "amount": 2,
+      "unit": "Lần"
+    },
+    {
+      "label": "Xi lanh 4",
+      "amount": 2,
+      "unit": "Lần"
+    },
+    {
+      "label": "Xi lanh 5",
+      "amount": 2,
+      "unit": "Lần"
+    }
   ]
 }
