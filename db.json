@@ -1160,7 +1160,10 @@
   "imageInfo": [
     {
       "camID": "Camera 1",
-      "error": "ban",
+      "error": [
+        "ban",
+        "kim loai"
+      ],
       "image": "b4650a390145c21b9b54.jpg"
     },
     {
@@ -1170,7 +1173,9 @@
     },
     {
       "camID": "Camera 3",
-      "error": "ban",
+      "error": [
+        "ban"
+      ],
       "image": "b4650a390145c21b9b54.jpg"
     }
   ],
