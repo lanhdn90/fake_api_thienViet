@@ -1259,6 +1259,7 @@
   "dataReport": [
     {
       "time": 1654653479581,
+      "type": "Lọ cao",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1271,6 +1272,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ cao",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1283,6 +1285,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ cao",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1295,6 +1298,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ thấp",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1307,6 +1311,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ cao",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1319,6 +1324,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ thấp",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1331,6 +1337,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ thấp",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1343,6 +1350,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ cao",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1355,6 +1363,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ thấp",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
@@ -1367,6 +1376,7 @@
     },
     {
       "time": 1654653479581,
+      "type": "Lọ cao",
       "products_reach": 100,
       "error_1": 5,
       "error_2": 5,
